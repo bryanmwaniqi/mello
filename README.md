@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Mello Chat - A Single Page React App
 
 A single page chat application build using React.
 
